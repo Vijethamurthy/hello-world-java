@@ -1,6 +1,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello world!");
-    System.out.println("this is a sample webhook execution using webhoooks...222");
+    System.out.println("this is a sample webhook execution using webhoooks...");
   }
 }
